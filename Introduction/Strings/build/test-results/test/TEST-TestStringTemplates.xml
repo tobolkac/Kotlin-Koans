@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestStringTemplates" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-06-25T00:45:48" hostname="UALC02VG0JUHTDD" time="0.032">
+<testsuite name="TestStringTemplates" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-06-26T02:14:26" hostname="Clays-MBP" time="0.05">
   <properties/>
-  <testcase name="match1" classname="TestStringTemplates" time="0.031"/>
-  <testcase name="match" classname="TestStringTemplates" time="0.0"/>
+  <testcase name="match1" classname="TestStringTemplates" time="0.049"/>
+  <testcase name="match" classname="TestStringTemplates" time="0.001"/>
   <testcase name="doNotMatch" classname="TestStringTemplates" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

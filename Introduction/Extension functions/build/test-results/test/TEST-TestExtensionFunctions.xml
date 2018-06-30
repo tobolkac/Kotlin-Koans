@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestExtensionFunctions" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-06-25T01:28:19" hostname="UALC02VG0JUHTDD" time="0.004">
+<testsuite name="TestExtensionFunctions" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-06-26T02:15:11" hostname="Clays-MBP" time="0.004">
   <properties/>
-  <testcase name="testPairExtension" classname="TestExtensionFunctions" time="0.004"/>
+  <testcase name="testPairExtension" classname="TestExtensionFunctions" time="0.003"/>
   <testcase name="testIntExtension" classname="TestExtensionFunctions" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestLambdas" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-06-25T01:06:17" hostname="UALC02VG0JUHTDD" time="0.016">
+<testsuite name="TestLambdas" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-06-26T02:14:17" hostname="Clays-MBP" time="0.023">
   <properties/>
-  <testcase name="contains" classname="TestLambdas" time="0.016"/>
+  <testcase name="contains" classname="TestLambdas" time="0.023"/>
   <testcase name="notContains" classname="TestLambdas" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestNullableTypes" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-06-25T01:23:47" hostname="UALC02VG0JUHTDD" time="0.004">
+<testsuite name="TestNullableTypes" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-06-26T02:14:42" hostname="Clays-MBP" time="0.004">
   <properties/>
   <testcase name="everythingIsOk" classname="TestNullableTypes" time="0.003"/>
   <testcase name="noClient" classname="TestNullableTypes" time="0.0"/>
